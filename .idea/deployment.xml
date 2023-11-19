@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="location-212-scanImage" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="location-212-scanImage">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/colvin/ai/self/scanImage" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

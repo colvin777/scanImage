@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="47e05b83-28bb-45eb-a4c8-f094ca4a2e85" name="location-212-scanImage">
+        <fileTransfer accessType="SFTP" host="192.168.31.212" port="22" sshConfigId="8d2efce6-c029-463c-a175-02cd071d1006" sshConfig="colvin@192.168.31.212:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
